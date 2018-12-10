@@ -20,7 +20,7 @@
     "pre-commit": "npm run lint && npm run test"
   },
   "dependencies": {
-    "vue": "^2.5.17",
+    "vue": "^2.5.20",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
     "websocket": "^1.0.28"
